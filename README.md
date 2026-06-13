@@ -18,7 +18,7 @@
 
 ## Featured Projects
 
-### [📦 Retail Network Optimization & Profitability Analysis] (...)
+### [📦 Retail Network Optimization & Profitability Analysis] (https://github.com/BokaniC/retail-network-optimization-profitability-analysis)
 Optimization modeling using AMPL and Gurobi to maximize profitability across a retail network of 40 stores and 10 warehouses.
 
 ### [🧠 Social Media & Mental Health Analytics Dashboard] (....)
