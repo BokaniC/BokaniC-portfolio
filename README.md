@@ -26,7 +26,7 @@ Interactive Tableau dashboard analyzing relationships between social media usage
 - [⭐ Yelp Review Usefulness Prediction] (....)
 Machine learning project using Python and NLP techniques to identify highly useful customer reviews from 1.58M+ Yelp reviews.
 
-- [🚍 WMATA Transit Performance Analytics] (....)
+- [🚍 WMATA Transit Performance Analytics](https://github.com/BokaniC/wmata-transit-performance-analytics)
 SQL-based database design and reporting framework supporting transit performance monitoring and operational decision-making.
 
 ## Connect With Me
